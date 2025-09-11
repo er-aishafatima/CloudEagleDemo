@@ -36,8 +36,8 @@ public class DropboxBusinessAPIClient {
     private static final String API_BASE_URL = "https://api.dropboxapi.com/2";
     
     // OAuth Configuration (Replace with your actual values)
-    private static final String CLIENT_ID = "qefft2z42ol241u";
-    private static final String CLIENT_SECRET = "obl1mnlugnu6qxv";
+    private static final String CLIENT_ID = "#TBD";
+    private static final String CLIENT_SECRET = "#TBD";
     private static final String REDIRECT_URI = "http://localhost:8080/callback";
     
     // Required scopes for Business API
